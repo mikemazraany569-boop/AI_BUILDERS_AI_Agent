@@ -31,15 +31,6 @@ An AI-powered travel planning dashboard built with **CrewAI** and **Streamlit**.
 ### Prerequisites
 
 * **Python 3.10+**
-* An API Key for your LLM provider (e.g., OpenAI API Key)
-
-### Installation
-
-**Clone the Repository:**
-   
-   git clone [https://github.com/your-username/travel-planner-crew.git](https://github.com/your-username/travel-planner-crew.git)
-   cd travel-planner-crew
-
 
 💻 Usage
 Launch the Streamlit application:
